@@ -1,0 +1,33 @@
+name: Fetch latest parrainages stats
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  parrainages:
+    name: ⭐ Fetch Parrainages stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇ Checkout
+        uses: actions/checkout@v2
+
+      - name: Fetch latest parrainages stats
+        run: |
+          mkdir -p data && cd $_
+          curl https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.json | jq . > parrainagestotal.json
+          # This is a fucking Jq filter to format data as needed
+          curl https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.json | jq 'group_by(.Candidat) |map({ Candidat: .[0].Candidat, "Nombre total de parrainages validés": length, "DatePublication": (group_by(.DatePublication) |map({(.[0].DatePublication |strptime("%Y-%m-%dT%H:%M:%S") |strftime("%d/%m/%Y")): length}) |add) })' > parrainagessum.json
+
+      - name: 🤖 Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          commit_message: 🤖 Update parrainages stats json
+          branch: main
+          commit_user_name: 🤖 bot presidentielle 🇫🇷
+          commit_user_email: actions@github.com
+          commit_author: 🤖 bot presidentielle 🇫🇷 <actions@github.com>
