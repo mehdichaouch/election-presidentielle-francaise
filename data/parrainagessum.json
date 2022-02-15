@@ -1,22 +1,24 @@
 [
   {
     "Candidat": "ARTHAUD Nathalie",
-    "Nombre total de parrainages validés": 419,
+    "Nombre total de parrainages validés": 509,
     "DatePublication": {
       "01/02/2022": 12,
       "03/02/2022": 126,
       "08/02/2022": 230,
-      "10/02/2022": 51
+      "10/02/2022": 51,
+      "15/02/2022": 90
     }
   },
   {
     "Candidat": "ASSELINEAU François",
-    "Nombre total de parrainages validés": 193,
+    "Nombre total de parrainages validés": 210,
     "DatePublication": {
       "01/02/2022": 10,
       "03/02/2022": 46,
       "08/02/2022": 115,
-      "10/02/2022": 22
+      "10/02/2022": 22,
+      "15/02/2022": 17
     }
   },
   {
@@ -27,45 +29,57 @@
     }
   },
   {
-    "Candidat": "BEKAERT Corinne",
-    "Nombre total de parrainages validés": 1,
+    "Candidat": "BÉKAERT Corinne",
+    "Nombre total de parrainages validés": 3,
     "DatePublication": {
-      "08/02/2022": 1
+      "08/02/2022": 1,
+      "15/02/2022": 2
     }
   },
   {
     "Candidat": "CAU Marie",
-    "Nombre total de parrainages validés": 1,
+    "Nombre total de parrainages validés": 2,
     "DatePublication": {
-      "08/02/2022": 1
+      "08/02/2022": 1,
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "CHICHE Arnaud",
-    "Nombre total de parrainages validés": 5,
+    "Nombre total de parrainages validés": 8,
     "DatePublication": {
       "03/02/2022": 1,
       "08/02/2022": 3,
-      "10/02/2022": 1
+      "10/02/2022": 1,
+      "15/02/2022": 3
+    }
+  },
+  {
+    "Candidat": "COJAN Patrick",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "DUPONT-AIGNAN Nicolas",
-    "Nombre total de parrainages validés": 280,
+    "Nombre total de parrainages validés": 360,
     "DatePublication": {
       "01/02/2022": 10,
       "03/02/2022": 67,
       "08/02/2022": 155,
-      "10/02/2022": 48
+      "10/02/2022": 48,
+      "15/02/2022": 80
     }
   },
   {
     "Candidat": "EGGER Clara",
-    "Nombre total de parrainages validés": 7,
+    "Nombre total de parrainages validés": 13,
     "DatePublication": {
       "03/02/2022": 3,
       "08/02/2022": 3,
-      "10/02/2022": 1
+      "10/02/2022": 1,
+      "15/02/2022": 6
     }
   },
   {
@@ -84,81 +98,103 @@
   },
   {
     "Candidat": "HIDALGO Anne",
-    "Nombre total de parrainages validés": 790,
+    "Nombre total de parrainages validés": 1007,
     "DatePublication": {
       "01/02/2022": 48,
       "03/02/2022": 218,
       "08/02/2022": 386,
-      "10/02/2022": 138
+      "10/02/2022": 138,
+      "15/02/2022": 217
+    }
+  },
+  {
+    "Candidat": "HOLLANDE François",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "JADOT Yannick",
-    "Nombre total de parrainages validés": 325,
+    "Nombre total de parrainages validés": 450,
     "DatePublication": {
       "01/02/2022": 11,
       "03/02/2022": 69,
       "08/02/2022": 188,
-      "10/02/2022": 57
+      "10/02/2022": 57,
+      "15/02/2022": 125
     }
   },
   {
     "Candidat": "KAZIB Anasse",
-    "Nombre total de parrainages validés": 99,
+    "Nombre total de parrainages validés": 116,
     "DatePublication": {
       "01/02/2022": 1,
       "03/02/2022": 20,
       "08/02/2022": 63,
-      "10/02/2022": 15
+      "10/02/2022": 15,
+      "15/02/2022": 17
     }
   },
   {
     "Candidat": "KOENIG Gaspard",
-    "Nombre total de parrainages validés": 27,
+    "Nombre total de parrainages validés": 28,
     "DatePublication": {
       "03/02/2022": 2,
       "08/02/2022": 21,
-      "10/02/2022": 4
+      "10/02/2022": 4,
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "KUZMANOVIC Georges",
-    "Nombre total de parrainages validés": 27,
+    "Nombre total de parrainages validés": 35,
     "DatePublication": {
       "01/02/2022": 1,
       "03/02/2022": 8,
       "08/02/2022": 16,
-      "10/02/2022": 2
+      "10/02/2022": 2,
+      "15/02/2022": 8
+    }
+  },
+  {
+    "Candidat": "LAM Yaya",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "LASSALLE Jean",
-    "Nombre total de parrainages validés": 382,
+    "Nombre total de parrainages validés": 471,
     "DatePublication": {
       "01/02/2022": 15,
       "03/02/2022": 109,
       "08/02/2022": 192,
-      "10/02/2022": 66
+      "10/02/2022": 66,
+      "15/02/2022": 89
     }
   },
   {
     "Candidat": "LE PEN Marine",
-    "Nombre total de parrainages validés": 274,
+    "Nombre total de parrainages validés": 331,
     "DatePublication": {
       "01/02/2022": 2,
       "03/02/2022": 33,
       "08/02/2022": 104,
-      "10/02/2022": 135
+      "10/02/2022": 135,
+      "15/02/2022": 57
     }
   },
   {
     "Candidat": "MACRON Emmanuel",
-    "Nombre total de parrainages validés": 1050,
+    "Nombre total de parrainages validés": 1260,
     "DatePublication": {
       "01/02/2022": 105,
       "03/02/2022": 424,
       "08/02/2022": 397,
-      "10/02/2022": 124
+      "10/02/2022": 124,
+      "15/02/2022": 210
     }
   },
   {
@@ -170,9 +206,10 @@
   },
   {
     "Candidat": "MARTINEZ Antoine",
-    "Nombre total de parrainages validés": 5,
+    "Nombre total de parrainages validés": 7,
     "DatePublication": {
-      "08/02/2022": 5
+      "08/02/2022": 5,
+      "15/02/2022": 2
     }
   },
   {
@@ -183,21 +220,37 @@
     }
   },
   {
+    "Candidat": "MEURICE Guillaume",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
+    }
+  },
+  {
     "Candidat": "MIGUET Nicolas",
-    "Nombre total de parrainages validés": 9,
+    "Nombre total de parrainages validés": 12,
     "DatePublication": {
       "03/02/2022": 2,
-      "08/02/2022": 7
+      "08/02/2022": 7,
+      "15/02/2022": 3
     }
   },
   {
     "Candidat": "MÉLENCHON Jean-Luc",
-    "Nombre total de parrainages validés": 258,
+    "Nombre total de parrainages validés": 332,
     "DatePublication": {
       "01/02/2022": 14,
       "03/02/2022": 86,
       "08/02/2022": 124,
-      "10/02/2022": 34
+      "10/02/2022": 34,
+      "15/02/2022": 74
+    }
+  },
+  {
+    "Candidat": "MÉNARD Emmanuelle",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
     }
   },
   {
@@ -209,47 +262,52 @@
   },
   {
     "Candidat": "POUTOU Philippe",
-    "Nombre total de parrainages validés": 146,
+    "Nombre total de parrainages validés": 188,
     "DatePublication": {
       "01/02/2022": 4,
       "03/02/2022": 50,
       "08/02/2022": 73,
-      "10/02/2022": 19
+      "10/02/2022": 19,
+      "15/02/2022": 42
     }
   },
   {
     "Candidat": "PÉCRESSE Valérie",
-    "Nombre total de parrainages validés": 1249,
+    "Nombre total de parrainages validés": 1824,
     "DatePublication": {
       "01/02/2022": 34,
       "03/02/2022": 290,
       "08/02/2022": 615,
-      "10/02/2022": 310
+      "10/02/2022": 310,
+      "15/02/2022": 575
     }
   },
   {
     "Candidat": "RIVOAL Stéphanie",
-    "Nombre total de parrainages validés": 1,
+    "Nombre total de parrainages validés": 2,
     "DatePublication": {
-      "10/02/2022": 1
+      "10/02/2022": 1,
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "ROCCA Martin",
-    "Nombre total de parrainages validés": 2,
+    "Nombre total de parrainages validés": 3,
     "DatePublication": {
       "08/02/2022": 1,
-      "10/02/2022": 1
+      "10/02/2022": 1,
+      "15/02/2022": 1
     }
   },
   {
     "Candidat": "ROUSSEL Fabien",
-    "Nombre total de parrainages validés": 381,
+    "Nombre total de parrainages validés": 492,
     "DatePublication": {
       "01/02/2022": 30,
       "03/02/2022": 129,
       "08/02/2022": 167,
-      "10/02/2022": 55
+      "10/02/2022": 55,
+      "15/02/2022": 111
     }
   },
   {
@@ -261,28 +319,31 @@
   },
   {
     "Candidat": "SMATI  Rafik",
-    "Nombre total de parrainages validés": 2,
+    "Nombre total de parrainages validés": 5,
     "DatePublication": {
-      "08/02/2022": 2
+      "08/02/2022": 2,
+      "15/02/2022": 3
     }
   },
   {
     "Candidat": "TAUBIRA Christiane",
-    "Nombre total de parrainages validés": 47,
+    "Nombre total de parrainages validés": 73,
     "DatePublication": {
       "03/02/2022": 8,
       "08/02/2022": 28,
-      "10/02/2022": 11
+      "10/02/2022": 11,
+      "15/02/2022": 26
     }
   },
   {
     "Candidat": "THOUY Hélène",
-    "Nombre total de parrainages validés": 56,
+    "Nombre total de parrainages validés": 70,
     "DatePublication": {
       "01/02/2022": 2,
       "03/02/2022": 20,
       "08/02/2022": 26,
-      "10/02/2022": 8
+      "10/02/2022": 8,
+      "15/02/2022": 14
     }
   },
   {
@@ -293,13 +354,28 @@
     }
   },
   {
+    "Candidat": "WAECHTER Antoine",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
+    }
+  },
+  {
+    "Candidat": "WENDLINGER Stéphane",
+    "Nombre total de parrainages validés": 1,
+    "DatePublication": {
+      "15/02/2022": 1
+    }
+  },
+  {
     "Candidat": "ZEMMOUR Éric",
-    "Nombre total de parrainages validés": 181,
+    "Nombre total de parrainages validés": 250,
     "DatePublication": {
       "01/02/2022": 14,
       "03/02/2022": 44,
       "08/02/2022": 91,
-      "10/02/2022": 32
+      "10/02/2022": 32,
+      "15/02/2022": 69
     }
   }
 ]
