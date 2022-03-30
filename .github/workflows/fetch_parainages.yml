@@ -1,14 +1,15 @@
-name: Fetch latest parrainages stats
+name: 🗳️ Fetch latest parrainages stats
 
 on:
   workflow_dispatch:
   push:
-  schedule:
-    - cron: '*/30 * * * *'
+    branches: [ main ]
+#  schedule:
+#    - cron: '*/30 * * * *'
 
 jobs:
   parrainages:
-    name: ⭐ Fetch Parrainages stats
+    name: 🗳️ Fetch latest parrainages stats
     runs-on: ubuntu-latest
     steps:
       - name: ⬇ Checkout

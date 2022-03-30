@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/mehdichaouch/election-presidentielle-francaise">🗳️ Élection présidentielle française</a></h1>
 <p align="center">
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/mehdichaouch/election-presidentielle-francaise.svg?style=flat-square" alt="License:MIT"></a>
-  <a href="https://github.com/mehdichaouch/election-presidentielle-francaise/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/github/license/mehdichaouch/election-presidentielle-francaise.svg?style=flat" alt="License:MIT"></a>
   <a href="https://jekyllrb.com/"><img src="https://img.shields.io/badge/jekyll-%3E%3D%203.9-blue.svg" alt="Jekyll"></a>
 </p>
 
